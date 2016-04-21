@@ -1,0 +1,12 @@
+
+# Injecting Stubs
+
+
+- Xcode UI Tests run in a seperate process
+- Need network stubs for UI Tests
+- Stubs only affect the process you stub in
+- ...
+
+- Put stubbing code in a Framework
+- Inject it!
+- Works outside of tests too

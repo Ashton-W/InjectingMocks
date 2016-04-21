@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Short Title",
+    "body": "Short body too."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Stubbed Post with a very long title indeed.",
+    "body": "Xcode provides an app delegate class for every new project, so you do not need to define one yourself initially. When your app launches, UIKit automatically creates an instance of the app delegate class provided by Xcode and uses it to execute the first bits of custom code in your app. All you have to do is take the class that Xcode provides and add your custom code."
+  }
+]
