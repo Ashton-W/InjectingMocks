@@ -1,5 +1,8 @@
 # InjectingMocks
 
+Content from talk at Melbourne Cocoaheads No. 95 - June 2016   
+Video: (https://youtu.be/2JLqld46Bjg?t=1h24m)
+
 Uses submodules:
 `git submodule update --init --recursive`
 
